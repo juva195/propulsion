@@ -1,1 +1,1 @@
-# propulsion
+This report is one of three projects necessary for my bachelor's degree in aerospace engineering. It focuses on an in-depth study of the Ariane V propulsion system. Specifically, I was tasked with the section regarding the propulsion system of the James Webb Space Telescope.
